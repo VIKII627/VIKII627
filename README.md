@@ -21,11 +21,14 @@ Mi objetivo es seguir desarrollando mis habilidades técnicas y profesionales en
 ⚡ Proactividad <br> 
 🎨 Creatividad
 
-### 📊 Lenguajes más usados
+### 📊 Lenguajes y herramientas que uso
 
-![HTML](https://img.shields.io/badge/HTML-50%25-orange)
-![CSS](https://img.shields.io/badge/CSS-30%25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow)
+![HTML](https://img.shields.io/badge/HTML-40%25-orange)
+![CSS](https://img.shields.io/badge/CSS-20%25-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-10%25-yellow)
+![PowerShell](https://img.shields.io/badge/PowerShell-10%25-5391FE)
+![CMD](https://img.shields.io/badge/Windows%20Terminal-20%25-black)
+
 
 
 
